@@ -1,3 +1,15 @@
-# app-cd-test1
-This is a test application to understand github and git better. 
-And also covers one of many projects that will be uploaded.
+# 🚀 Welcome to your new awesome project!
+
+This project has been created using **webpack-cli**, you can now run
+
+```
+npm run build
+```
+
+or
+
+```
+yarn build
+```
+
+to bundle your application
